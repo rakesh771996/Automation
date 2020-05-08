@@ -1,5 +1,5 @@
 <?php
 
-print 'dev'
+print 'develop'
 
 ?>
