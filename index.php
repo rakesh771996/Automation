@@ -1,5 +1,5 @@
 <?php
 
-print 'first time';
+print 'second time';
 
 ?>
