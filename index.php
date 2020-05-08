@@ -1,5 +1,5 @@
 <?php
 
-print 'developer-changing'
+print 'dev'
 
 ?>
