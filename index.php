@@ -1,5 +1,5 @@
 <?php
 
-print 'good morning develope1'
+print 'good morning developee1'
 
 ?>
